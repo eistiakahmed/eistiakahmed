@@ -56,7 +56,7 @@ I specialize in **React.js**, **JavaScript**, and **TailwindCSS**, and I’m cur
   </tr>
 </table>
 
----
+
 
 ## 🌐 Connect With Me  
 
