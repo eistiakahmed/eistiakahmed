@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co.com/GHfG0TxY/profile-banner.png" alt="Profile Banner" />
-</p>
+
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm <span style="color:#2B90FF">Eistiak Ahmed</span></h1>
@@ -15,7 +12,7 @@ I specialize in **React.js**, **JavaScript**, and **TailwindCSS**, and I’m cur
 
 ### 🔥 What I'm Doing Now  
 - 🌱 Learning **Next.js** to strengthen React ecosystem expertise  
-- 🚀 Building a **Tourism Website** using modern web technologies  
+- 🚀 Building a **Parcel Delivery System Website** using modern web technologies  
 - 🧩 Exploring backend concepts (Node.js, Express.js, MongoDB)  
 - 🎯 Improving UI/UX, clean architecture & reusable components  
 
