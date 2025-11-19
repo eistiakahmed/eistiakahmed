@@ -62,6 +62,7 @@ I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building c
       <img src="https://skillicons.dev/icons?i=vscode" width="45" />  
       <img src="https://skillicons.dev/icons?i=postman" width="45" />  
       <img src="https://skillicons.dev/icons?i=firebase" width="45" />
+      <img src="https://skillicons.dev/icons?i=netlify" width="45" />
     </td>
   </tr>
 </table>
