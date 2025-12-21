@@ -46,7 +46,8 @@ I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building c
       <img src="https://skillicons.dev/icons?i=css" width="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="45" />  
+      <img src="https://skillicons.dev/icons?i=react" width="45" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
     </td>
     <td align="center">
