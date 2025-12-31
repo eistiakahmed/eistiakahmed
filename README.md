@@ -95,10 +95,11 @@ I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building c
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Stats:</b>  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eistiakahmed&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eistiakahmed&layout=compact&theme=react&hide_border=true" />
-</p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=eistiakahmed&theme=react&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eistiakahmed&show_icons=true&theme=react&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eistiakahmed&layout=compact&theme=react&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eistiakahmed&theme=react&hide_border=true)
+
 </p>
