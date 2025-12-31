@@ -100,5 +100,5 @@ I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building c
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eistiakahmed&theme=react&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=eistiakahmed&theme=react&hide_border=true" />
 </p>
