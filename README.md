@@ -73,21 +73,10 @@ I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building c
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <p align="left">
-  <a href="https://dev.to/eistiak_ahmed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" height="40" />
-  </a>
-
-  <a href="https://x.com/mrdark_en" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/eistiak-ahmed-meraj/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-
-  <a href="https://www.facebook.com/eistiakahmedmeraj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/eistiak-ahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mrdark_en" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://dev.to/eistiak_ahmed" target="_blank"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://www.facebook.com/eistiakahmedmeraj/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 <br/>
