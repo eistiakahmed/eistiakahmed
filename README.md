@@ -3,7 +3,7 @@
 
 
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="center"  width ="35">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Eistiak Ahmed</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
@@ -11,68 +11,63 @@
   </ul>
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=eistiakahmed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <br/>
 
-## 👨‍💻 About Me  
-I'm **Eistiak Ahmed**, a passionate **Frontend Developer** focused on building clean, modern, and user-friendly web interfaces. I specialize in **React.js**, **JavaScript**, and **TailwindCSS**, and I’m currently expanding my knowledge toward becoming a **Full-Stack MERN Developer**.
 
-### 🔥 What I'm Doing Now  
-- 🌱 Learning **Next.js** to strengthen React ecosystem expertise  
-- 🚀 Building a **Parcel Delivery System Website** using modern web technologies  
-- 🧩 Exploring backend concepts (Node.js, Express.js, MongoDB)  
-- 🎯 Improving UI/UX, clean architecture & reusable components  
-- 📫 Reach me at **[eistiakahmedmeraj@gmail.com](mailto:eistiakahmedmeraj@gmail.com)**  
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>Passionate Full-Stack Developer with 1 years of experience transforming ideas into scalable, high-performance digital products. I specialize in backend systems, modern web architectures, and mentoring aspiring engineers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Focus</h3>
+      <p>🔹 <b>Full-Stack:</b> End-to-end app development.<br/>
+      🔹 <b>System Design:</b> Reliable & secure backends.<br/>
+      🔹 <b>DevOps:</b> CI/CD, AWS, and Cloud integrations.</p><br/>
+    </td>
+  </tr>
+</table> 
+
+<div align="center" width="100%">
+
+📫 **Reach me at:** **<a href="mailto:eistiakahmedmeraj@gmail.com">eistiakahmedmeraj@gmail.com</a>**
+
+</div>
 
 <br/>
 
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<table align="center">
-  <tr>
-    <th>Languages</th>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="45" />  
-      <img src="https://skillicons.dev/icons?i=html" width="45" />  
-      <img src="https://skillicons.dev/icons?i=css" width="45" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="45" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" />  
-      <img src="https://skillicons.dev/icons?i=express" width="45" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="45" />
-      <img src="https://skillicons.dev/icons?i=github" width="45" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" />  
-      <img src="https://skillicons.dev/icons?i=postman" width="45" />  
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" />
-      <img src="https://skillicons.dev/icons?i=netlify" width="45" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><b>Languages & Frontend</b></p>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+  </a>
+  
+  <br/><br/>
+  <p><b>Backend & Databases</b></p>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,redis,graphql" />
+  </a>
+
+  <br/><br/>
+  <p><b>DevOps & Tools</b></p>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,nginx,linux" />
+  </a>
+</div>
 
 <br/>
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/eistiak-ahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/mrdark_en" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://dev.to/eistiak_ahmed" target="_blank"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" /></a>
