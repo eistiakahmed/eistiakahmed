@@ -27,7 +27,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Core Focus</h3>
-      <p>🔹 <b>Full-Stack:</b> End-to-end app development.<br/>
+      <p>🔹 <b>Full-Stack:</b> End-to-end web development.<br/>
       🔹 <b>System Design:</b> Reliable & secure backends.<br/>
       🔹 <b>DevOps:</b> CI/CD, AWS, and Cloud integrations.</p><br/>
     </td>
